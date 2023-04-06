@@ -10,6 +10,7 @@ pandas-datareader = "*"
 matplotlib = "*"
 scipy = "*"
 yfinance = "*"
+seaborn = "*"
 
 [dev-packages]
 ipykernel = "*"
